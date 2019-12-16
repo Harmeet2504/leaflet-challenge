@@ -25,3 +25,5 @@ Basic Visualization of earthquake data with magnitude of 1.0+ for the past one d
    * Visualization looks something like the map above.
 
 
+**Note**
+Please include an API token from mapbox to visualize the map. Public token is incorporated in the script config.js.
